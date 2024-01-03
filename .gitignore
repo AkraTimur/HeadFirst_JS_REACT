@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+
+# Generated files
+build/
+dist/
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Jest coverage
+coverage/
+
+# npm
+*.npm
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
